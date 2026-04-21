@@ -35,3 +35,4 @@ Miner V3.0 transforms from a sequential script into a **Multi-Agent Orchestratio
 *   **Semantic De-duplication:** Prevents reaching out to the same entity via different brand names.
 *   **Dynamic Ice-breakers:** Moves beyond "I saw your website" to "I saw your 10-year transition from FoodTech to Sustainable Packaging."
 *   **Open-Source First:** Every component can be self-hosted or swapped for a local model (Ollama).
+*   **Self-Updating Memory:** Integrates with `self-improvement-skill` to log learnings [LRN], errors [ERR], and reflections [REF] into a daily diary, creating a feedback loop for better targeting and scraping.
